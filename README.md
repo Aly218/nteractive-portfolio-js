@@ -1,2 +1,2 @@
-# project3
-add javascript to a website
+# Interactive Portfolio with JavaScript
+A portfolio website enhanced with JavaScript that features an interactive Google Map with functional markers and dynamic behavior. Built with HTML, CSS, and JavaScript, it demonstrates DOM manipulation, API integration, and interactive UI design. See personal-landing-page for the initial HTML version and interactive-portfolio-css for the styled multi-page version. This project highlights the culmination of functionality, styling, and interactivity in a single portfolio experience.
